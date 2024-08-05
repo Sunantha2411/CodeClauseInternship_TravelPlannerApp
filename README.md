@@ -21,4 +21,4 @@ The Travel Planner App is a simple web application that allows users to plan and
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/yourusername/travel-planner-app.git
+   git clone https://github.com/Sunantha2411/CodeClauseInternship_TravelPlannerApp
